@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
     <div class="sameline">
       <p>TF1</p>
       <p>France 2</p>
