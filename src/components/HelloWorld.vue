@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="sameline">
+    <div>
       <p>TF1</p>
       <p>France 2</p>
       <p>France 3</p>
@@ -22,9 +22,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-sameline {
-  display: flex;
-}
 h3 {
   margin: 40px 0 0;
 }
